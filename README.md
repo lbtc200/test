@@ -1,2 +1,3 @@
-# test
-this is a test
+# My First Commit 🚀
+Hello, GitHub!
+
